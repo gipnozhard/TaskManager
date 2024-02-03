@@ -15,3 +15,9 @@ https://developer.android.com/codelabs/basic-android-kotlin-compose-composables-
 Ссылка на изображение из задания:
 https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems/blob/main/Unit%201/Pathway%203/TaskCompleted/app/src/main/res/drawable/ic_task_completed.png
 
+Unit 1: Your first Android app -> Pathway 3: Build a basic layout -> 5 Activity: Practice - Compose Basics - выполнение трёх упражнений( 1 упражнение) "Learn Together"
+
+-----------------------------------------
+
+Ссылка на GitHub решение от Google:
+https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems/tree/main/Unit%201/Pathway%203/TaskCompleted
