@@ -17,6 +17,9 @@ https://github.com/google-developer-training/basic-android-kotlin-compose-traini
 
 Unit 1: Your first Android app -> Pathway 3: Build a basic layout -> 5 Activity: Practice - Compose Basics - выполнение трёх упражнений( 1 упражнение) "Learn Together"
 
+Полученный результат приложения:
+![image](https://github.com/gipnozhard/TaskManager/assets/71705375/2f2842ba-acbb-457c-843a-dcfa81146f5c)
+
 -----------------------------------------
 
 Ссылка на GitHub решение от Google:
