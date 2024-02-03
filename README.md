@@ -20,7 +20,9 @@ Unit 1: Your first Android app -> Pathway 3: Build a basic layout -> 5 Activity:
 Полученный результат приложения:
 ![image](https://github.com/gipnozhard/TaskManager/assets/71705375/2f2842ba-acbb-457c-843a-dcfa81146f5c)
 
------------------------------------------
+в это упражнение допольнительно проработанны такие свойства как, выравнивание элементов внутри контейнера с помощью Alignment, заполнения(отступы) сверху и мнизу впрошлом было спарва и слева, толщину шрифта менять .
+
+----------------------------------------
 
 Ссылка на GitHub решение от Google:
 https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems/tree/main/Unit%201/Pathway%203/TaskCompleted
